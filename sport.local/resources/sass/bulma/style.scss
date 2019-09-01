@@ -1,0 +1,52 @@
+.pos {
+    margin: 0 auto;
+}
+
+nav.a {
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.header {
+    background: $teal;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    font-size: 2em;
+}
+
+.is-played {
+    text-decoration: line-through;
+}
+
+.footer {
+    background: #ff5257;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    font-size: 1em;
+}
+
+.imagec {
+}
+
+.imageb {
+    padding-top: 10px;
+    height: 500px;
+    width: 400px;
+    position: relative;
+    left: 10px;
+}
+
+.imagea {
+    padding-top: 10px;
+    height: 500px;
+    width: 400px;
+    position: relative;
+    right: 10px;
+}

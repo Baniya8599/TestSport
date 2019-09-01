@@ -1,0 +1,28 @@
+PATCH http://localhost:3000/sports/1/edit
+Accept: */*
+Cache-Control: no-cache
+Add_category: dafsdfdsaf
+About_category: sfsfsdfsd
+
+<> 2018-12-19T112355.405.html
+
+###
+
+PATCH http://localhost:3000/sports/1/edit
+Accept: */*
+Cache-Control: no-cache
+Add_category: dafsdfdsaf
+About_category: sfsfsdfsd
+
+<> 2018-12-19T111726.405.html
+
+###
+
+PATCH http://localhost:8080/resources
+Accept: */*
+Cache-Control: no-cache
+Add_category: dafsdfdsaf
+About_category: sfsfsdfsd
+
+###
+
